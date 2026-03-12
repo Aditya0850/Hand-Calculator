@@ -101,5 +101,3 @@ GitHub:
 [https://github.com/Aditya0850](https://github.com/Aditya0850)
 
 
-
-If you want, I can also show you **3 small changes that will make this project look like a senior-level AI project on GitHub** (takes 15 minutes but makes it much more impressive).
